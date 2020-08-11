@@ -19,6 +19,7 @@ With the inclusion of tampered data Thomas High School was one of the top perfro
 ![Resources/comp_data_module.png](Resources/comp_data_module.png)
 
 Without the freshman data Thomas High's performance plumets. Every performance metric drops and the overvall passing percentage drops by around 25 percentage points from 90% to around 65%. 
+
 ![Resources/comp_data_challenge.png](Resources/comp_data_challenge.png)
 
 ### School Summery
@@ -34,10 +35,15 @@ The bottom 5 schools were not affected with the removal of data. The bottom 5 sc
 ![Resources/bottom_5_module.png](Resources/bottom_5_module.png)
 
 #### Scorces by grade
+
 Average math scores by grade per school.
+
 ![Resources/ave_math_challenge.png](Resources/ave_math_challenge.png)
 
+
 Average reading scores by grade per school.
+
+
 ![Resources/ave_reading_challenge.png](Resources/ave_reading_challenge.png)
 
 ## Summery
