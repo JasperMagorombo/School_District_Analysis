@@ -20,7 +20,7 @@ With the inclusion of tampered data Thomas High School was one of the top perfro
 
 Without the freshman data Thomas High's performance plumets. Every performance metric drops and the overvall passing percentage drops by around 25 percentage points from 90% to around 65%. 
 
-![Resources/comp_data_challenge.png](Resources/comp_data_challenge.png)
+![Resources/comp_data_challenege.png](Resources/comp_data_challenege.png)
 
 ### School Summery
 #### Top 5
