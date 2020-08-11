@@ -35,10 +35,10 @@ The bottom 5 schools were not affected with the removal of data. The bottom 5 sc
 
 #### Scorces by grade
 Average math scores by grade per school.
-![ave_math_challenge.png](ave_math_challenge.png)
+![Resources/ave_math_challenge.png](Resources/ave_math_challenge.png)
 
 Average reading scores by grade per school.
-![ave_reading_challenge.png](ave_reading_challenge.png)
+![Resources/ave_reading_challenge.png](Resources/ave_reading_challenge.png)
 
 ## Summery
 The tampering of Thomas High freshman data, while debilitating to Thomas High's metrics, overall did not have a major impact on the school district's metrics. The data overall suggets that smaller to more meduim sized schools have the greatest chance to be successful. If additional resources were to be distributed within the district I would suggest more resources be directed towards the math departments, as they were underperforming compared to the ELA departments.
